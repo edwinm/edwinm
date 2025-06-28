@@ -54,9 +54,6 @@
         }
     </style>
 
-    <text x="370" y="200" class="name">Edwin Martin</text>
-    <text x="370" y="250" class="profession">Frontend engineer</text>
-
 	<g>
     <path id="swirl1" d="M-275 244 C -68 340, 18 340, 225 244 C 432 148, 518 148, 725 244 C 932 340, 1018 340, 1225 244 C 1432 148, 1518 148, 1725 244 C 1932 340, 2018 340, 2225 244 C 2432 148, 2518 148, 2725 244"
           stroke-width="275" fill="transparent" stroke="hsla(184, 100%, 43.1%, 0.588)"
@@ -68,5 +65,9 @@
           stroke-width="40" fill="transparent" stroke="hsla(52, 100%, 54.9%, 0.628)"
           style="transform: translate(-33.576px);"></path>
     </g>
+
+    <text x="370" y="200" class="name">Edwin Martin</text>
+    <text x="370" y="250" class="profession">Frontend engineer</text>
+
 </svg>
 
